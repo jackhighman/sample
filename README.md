@@ -1,2 +1,2 @@
 # sample
-yes
+I made a repository. Wow
